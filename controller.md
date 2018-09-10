@@ -12,3 +12,5 @@
 |---|----|
 | @PathVariable | 取得path中对应的参数 |
 | @RequestParam | 取得请求参数 |
+|---|----|
+| @Transactional | 事务，多条数据同步处理 |

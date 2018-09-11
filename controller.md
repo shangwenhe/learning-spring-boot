@@ -14,3 +14,5 @@
 | @RequestParam | 取得请求参数 |
 |---|----|
 | @Transactional | 事务，多条数据同步处理 |
+
+| @RequestBody | 序列化JSON |
